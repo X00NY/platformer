@@ -3,10 +3,30 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "Level-01.tmx",
     "expandedProjectPaths": [
     ],
     "fileStates": {
+        "Level-01.tmx": {
+            "scale": 1.674375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 320.11944755505795,
+                "y": 183.35199701381114
+            }
+        },
+        "Level-02.tmx": {
+            "scale": 1.674375,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 320.11944755505795,
+                "y": 184.54647256438972
+            }
+        },
+        "Pixel Adventure.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
     },
     "last.imagePath": "C:/Users/Nico/Documents/dev_projects/flutter_projects/platformer/pixel_adventure/assets/images/Terrain",
     "map.height": 23,
@@ -15,9 +35,13 @@
     "map.tileWidth": 16,
     "map.width": 40,
     "openFiles": [
+        "Pixel Adventure.tsx",
+        "Level-01.tmx"
     ],
     "project": "Pixel Adventure.tiled-project",
     "recentFiles": [
+        "Pixel Adventure.tsx",
+        "Level-01.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {
